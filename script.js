@@ -23,10 +23,10 @@ const businessProfile = {
     email: "Pokhreljulen00@gmail.com",
     website: "https://shankarisupokhrel.tappoo.workers.dev/",
 
-    address: "Jai santoshi Ma soon chandi, Milan road, Chitwan, Nepal",
+    address: "Prema Sai Jewellers, Milan road, Chitwan, Nepal",
     // Optional: exact Google Maps link. If omitted a search URL is
     // built automatically from `address` + `company`.
-    mapsUrl: "https://maps.app.goo.gl/f4AaBfTjumiXTTBn9",
+    mapsUrl: "https://maps.app.goo.gl/fUobGTdTJh5Kd41b7",
 
     handle: "@Shankar_Isu_Pokhrel",
 
