@@ -4,51 +4,49 @@ const businessProfile = {
     slug: "Shankar Isu Pokhrel",
 
     name: "Shankar Isu Pokhrel",
-    title: "Managing Director",
-    company: "Jai Santoshi Ma Sunchadi Pasal",
+    title: "Founder",
+    company: "Prema Sai Jewellers",
 
     // Optional: short brand shown in the top bar. Falls back to
     // company initials if left empty.
-    brandShort: "जय संतोषी माँ",
+    brandShort: "Prema Sai",
 
-    profileImage: "assets/profile/rubin.jpeg",
-    logo: "assets/logos/santoshima.jpeg",
+    profileImage: "assets/profile/shankar.jpeg",
+    logo: "assets/logos/logo.jpeg",
 
-    tagline: "Managing Director",
+    tagline: "Founder",
     description:
-        "In Jai Santoshi ma, we provide all kinds of gold, silver and diamond jewelleies. We provide custom as well as readymade designs.",
+        "At Prema Sai Jewellers, we offer a wide range of gold, silver, and diamond jewellery. We provide both custom-made and ready-made designs to suit every style and occasion.",
 
-    phone: "+977 9855063964",
-    whatsapp: "9855063964",
-    email: "rubinramudamu@gmail.com",
-    website: "https://rubinramudamu.tappoo.workers.dev/",
+    phone: "+977 9855016564",
+    whatsapp: "9855016564",
+    email: "Pokhreljulen00@gmail.com",
+    website: "https://shankarisupokhrel.tappoo.workers.dev/",
 
     address: "Jai santoshi Ma soon chandi, Milan road, Chitwan, Nepal",
     // Optional: exact Google Maps link. If omitted a search URL is
     // built automatically from `address` + `company`.
-    mapsUrl: "https://maps.app.goo.gl/rocMWrgem7EMsZAv5?g_st=ac",
+    mapsUrl: "https://maps.app.goo.gl/f4AaBfTjumiXTTBn9",
 
-    handle: "@rubin_ramudamu_",
+    handle: "@Shankar_Isu_Pokhrel",
 
-    instagram: "https://www.instagram.com/rubin.ramudamu?stkn=MTNwNmVwb2FkaWg5ZA==",
-    facebook: "https://www.facebook.com/share/1JTPunT8un/",
+    instagram: "https://www.instagram.com/prema_sai_jewellers?stkn=dHkxNXp4dHg3bXhr",
+    facebook: "https://www.facebook.com/share/1f5PvsJBXV/",
     linkedin: "",
-    tiktok: "https://www.tiktok.com/@jaysantoshimaagoldshop?_r=1&_t=ZS-9A4jQl2k593",
+    tiktok: "https://www.tiktok.com/@premasaii_jewellers?_r=1&_t=ZS-9ALrnI0MtYj",
     youtube: "",
 
     whatsappMessage:
-        "Hello, Mr. Rubin.",
+        "Hello, Mr. Shankar.",
 
     services: [
-        "Jai Santoshi Ma Sunchadi Showroom",
-        "Ma santoshi Jewwlers",
-        "Chairman of \"EURO MOTORS PVT. LTD.\"",
-        "President Of \"Gold and silver saving and cooperative society president\""
-        
+        "Founder Of Prema Sai Jewellers",
+        "Board member Gold and silver association Nepal",
+        "Founder of Recovery United "
     ],
 
-    businessCardImage: "assets/business-cards/business_card.png",
-    vcardPhoto: "assets/profile/rubin.jpeg"
+    businessCardImage: "assets/business-cards/businesscard.png",
+    vcardPhoto: "assets/profile/shankar.jpeg"
 };
 
 // ================================================================
